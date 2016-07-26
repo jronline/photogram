@@ -26,7 +26,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # GEMs ADICIONADAS MANUALMENTE
 
+gem 'haml'
 gem 'paperclip'
+gem 'simple_form'
 
 
 
